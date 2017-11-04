@@ -1,0 +1,176 @@
+=head2 Sat Nov  4 13:29:48 2017: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:49 2017: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:50 2017: C<Module> L<Test::Class|Test::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:52 2017: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.302106>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:52 2017: C<Module> L<Importer|Importer>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.024>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:53 2017: C<Module> L<Sub::Info|Sub::Info>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:54 2017: C<Module> L<Term::Table|Term::Table>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Nov  4 13:29:54 2017: C<Module> L<Test2::Suite|Test2::Suite>
+
+=over 4
+
+=item *
+
+C<installed into: /home/mlparker/dev/jenkins-test/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.000083>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
