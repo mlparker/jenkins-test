@@ -1,9 +1,13 @@
 pipeline {
-    agent { rkt 'perl:5.26.0' }
+    agent any
     stages {
-        stage('build') {
+        stage('Build') {
             steps {
-                sh 'perl --version'
+                sh 'echo "Hello World"'
+                sh '''
+                    echo "Multiline shell steps works too"
+                    ls -lah
+                '''
             }
         }
     }
