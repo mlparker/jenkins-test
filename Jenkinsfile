@@ -1,5 +1,5 @@
 pipeline {
-    agent { docker 'perl:5.26.0' }
+    agent { rkt 'perl:5.26.0' }
     stages {
         stage('build') {
             steps {
