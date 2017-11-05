@@ -5,7 +5,6 @@ pipeline {
             steps {
                 sh '''
                     echo "Running tests..."
-                    which carton
                     prove -lv t
                 '''
             }
